@@ -1,4 +1,4 @@
-- 👋 Hi, I’m savya
+- 👋 Hi, I’m akshansh
 - 👀 I’m interested in sports, manga and anime. 
 - 🌱 I’m currently learning programming 
 
