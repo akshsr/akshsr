@@ -1,68 +1,68 @@
-# **Cybersecurity & Networking Profile**  
+# **Cybersecurity & SOC Analyst Profile**  
 
-Welcome to my GitHub profile! I am an **enthusiastic and motivated graduate** with a strong foundation in **networking** and **cybersecurity**. My mission is to help organizations safeguard their **digital infrastructure** while continuously evolving in the exciting field of **cybersecurity**. Below you'll find an overview of my **skills**, **tools**, **certifications**, and **projects**.
+Welcome to my GitHub profile! I am an **enthusiastic and detail-oriented SOC Analyst / Cyber Defender** with a strong foundation in **networking** and **cybersecurity**. My mission is to help organizations safeguard their **digital infrastructure** by leveraging my expertise in **incident response, threat detection, and security operations**. Below you'll find an overview of my **skills**, **tools**, **certifications**, and **projects**.
 
 ---
 
 ## **About Me**
 
-I possess a solid understanding of **network protocols**, **firewalls**, **intrusion detection systems (IDS)**, and **security best practices**. With hands-on experience in **ethical hacking**, **network penetration testing**, and **security tool implementation**.
+I possess hands-on experience in **SOC operations, Microsoft Security Stack (Sentinel, Defender XDR, M365 Defender, Azure Security Center)**, and **threat investigation**. With proven success in **incident response**, **phishing analysis**, **KQL query development**, and **Python automation**, I am committed to strengthening defenses against evolving cyber threats.
 
 ---
 
 ## **Key Skills & Expertise**
 
-### **Programming Languages**
-- **Python**, **JavaScript**, **SQL**, **R**, **TypeScript**, **Java**
+### **Programming & Scripting**
+- Python, JavaScript, SQL, Java, Bash  
 
-### **Networking Concepts**
-- Basics of **Networking Devices**
-- **Firewalls**, **IDS/IPS**
-- **OSI** & **TCP/IP Models**
-- **DNS**, **DHCP**, **TCP**, **UDP**, **SSL**, **SSH** protocols
+### **Networking & Security Concepts**
+- TCP/IP, DNS, DHCP, OSI Model  
+- Firewalls, IDS/IPS  
+- Log Analysis & Forensics (Windows, Linux, MacOS)  
 
 ### **Cybersecurity Skills**
-- **Ethical Hacking**
-- **Network Penetration Testing**
-- **OWASP Top 10** Awareness
-
-### **Operating Systems & Scripting**
-- **Windows**, **Linux** (Bash Scripting)
+- Incident Response & Threat Hunting  
+- SIEM Management & Alert Triage  
+- KQL Query Writing & Detection Engineering  
+- Threat Intelligence & MITRE ATT&CK Framework  
 
 ### **Tools & Technologies**
-- **Wireshark**
-- **Nmap**
-- **Metasploit**
-- **BurpSuite**
-- **Nessus**
-- **Sqlmap**
-- **StackOverflow** (Problem-solving & Debugging)
+- Microsoft Sentinel, Microsoft Defender XDR, M365 Defender  
+- Wireshark, Nmap, Burp Suite, Nessus  
+- Azure Security Center  
 
 ### **Capture the Flag (CTF)**
-- Active participant on **OverTheWire**
+- Active participant in security challenges and hands-on labs  
 
 ---
 
 ## **Certifications**
 
-- **Networking Basics** from **CISCO Networking Academy**
-- **Introduction to CyberSecurity** from **CISCO Networking Academy**
-- **CyberSecurity for Businesses - The Fundamental Edition** by **EC-Council**
-- **SQL Injection Attack** from **EC-Council**
-- **Introduction to Bash** from **Security Blue Team**
+- Blue Team Level 1 (BTL1) – Security Blue Team  
+- Blue Team Junior Analyst – Security Blue Team  
+- Ninja for Defender – Microsoft  
+- Cybersecurity for Businesses – EC-Council  
+- SQL Injection Attack – EC-Council  
+- Introduction to Bash – Security Blue Team  
 
 ---
 
 ## **Projects**
 
-My GitHub repository contains various personal projects and contributions in **cybersecurity** and **networking**. Here are some highlights:
+- **Microsoft Defender Use-Case Library**  
+  Investigated and documented incidents end-to-end with remediation strategies.  
 
-- **Network Configuration & Monitoring**  
-  Automating and securing network configurations using **Python** and **Bash**.
+- **Fast Detections with KQL**  
+  Authored advanced hunting queries to reduce false positives and improve SOC efficiency.  
 
-- **Security Audits**  
-  Conducting vulnerability assessments with tools like **Wireshark**, **Nmap**, and **Nessus**.
+- **Python Network Monitor**  
+  Automated malicious IP detection and blocking for proactive defense.  
 
-## **Thank You!**
+- **Noise Reduction Framework**  
+  Implemented filtering and whitelisting to enhance SOC triage workflows.  
 
-Thank you for visiting my profile! I’m excited to share my journey in **cybersecurity** and **networking**, and look forward to collaborating with others to help build a **more secure digital world**. Let's make the web a safer place!
+---
+
+## **Thank You**
+
+Thank you for visiting my profile! I am excited to share my journey in **cybersecurity and SOC operations**, and I look forward to collaborating with others to build a **safer digital world**.  
