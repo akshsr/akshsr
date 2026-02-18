@@ -1,5 +1,3 @@
-# **Cybersecurity & SOC Analyst Profile**  
-
 Welcome to my GitHub profile! I am an **enthusiastic and detail-oriented SOC Analyst / Cyber Defender** with a strong foundation in **networking** and **cybersecurity**. My mission is to help organizations safeguard their **digital infrastructure** by leveraging my expertise in **incident response, threat detection, and security operations**. Below you'll find an overview of my **skills**, **tools**, **certifications**, and **projects**.
 
 ---
